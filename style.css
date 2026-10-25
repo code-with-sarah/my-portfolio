@@ -1,0 +1,75 @@
+/* Clean & Modern Professional Portfolio Styling */
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #2b2d42;
+    background-color: #f8f9fa;
+}
+
+/* Custom Navbar & Footer Colors */
+.bg-dark {
+    background-color: #1e293b !important; /* Deep Slate Navy */
+}
+
+/* Custom Accent Colors */
+.text-primary {
+    color: #0284c7 !important; /* Rich Sky Blue */
+}
+
+.bg-primary {
+    background-color: #0284c7 !important;
+}
+
+.btn-primary {
+    background-color: #0284c7;
+    border-color: #0284c7;
+}
+
+.btn-primary:hover {
+    background-color: #0369a1;
+    border-color: #0369a1;
+}
+
+.btn-outline-primary {
+    color: #0284c7;
+    border-color: #0284c7;
+}
+
+.btn-outline-primary:hover {
+    background-color: #0284c7;
+    color: #ffffff;
+}
+
+/* Section Line Accent */
+.heading-line {
+    width: 60px;
+    height: 4px;
+    background-color: #0284c7;
+    border-radius: 2px;
+    margin-top: 8px;
+}
+
+/* Card Styling & Hover Effects */
+.card {
+    border-radius: 10px;
+    border: 1px solid #e2e8f0;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08) !important;
+}
+
+/* Profile Image Border */
+.profile-img {
+    border: 4px solid #0284c7 !important;
+}
+
+/* Footer Text Clarity */
+footer p {
+    color: #cbd5e1 !important;
+}
