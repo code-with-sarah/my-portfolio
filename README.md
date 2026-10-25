@@ -23,6 +23,6 @@ This is a responsive personal portfolio website developed as part of **Assignmen
 - **Git & GitHub**
 - **Vercel** (Deployment)
 
-## 📌 How to Run Locally
-1. Clone or download this repository.
-2. Open `index.html` in any web browser.
+### How to Run Locally
+1. Clone the repository: `git clone https://github.com/code-with-sarah/my-portfolio-site.git`
+2. Open `index.html` in any web browser to view the portfolio.
